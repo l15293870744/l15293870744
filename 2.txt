@@ -3,3 +3,4 @@ cross this byte i can learning git
 this row is show diff different with previous
 this is a experiment
 this row is show branch mergers and expand
+do a simple test to verify two storage
